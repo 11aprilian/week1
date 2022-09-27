@@ -115,7 +115,7 @@
   
   > HTML bukanlah sebuah bahasa pemrograman, artinya HTML tidak bisa dinamis mengolah data.
 
-  - ### **HTML Structure**
+ - ### **HTML Structure**
 ```html
   <!DOCTYPE html>
 <html lang="en">
@@ -135,7 +135,8 @@
 -  ### HTML Element
     <div align="justify">terdiri atas opening tag, content, closing tag
     <br>
-        - opening tag :
+
+    - opening tag :
     
       ```html
       <p>
@@ -146,7 +147,7 @@
       ```html
       </p>
       ```
-      - ### HTML Atribut
+- ### HTML Atribut
   Property dari subah element HTML. Contohnya id, class, name.
 
 - ### Single Tag atau Singular Tag 
@@ -180,7 +181,7 @@
 
   <br>
 
-  - ### Struktur CSS
+- ### Struktur CSS
   ```css
   .elementshtml{
     property : value
