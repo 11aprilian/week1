@@ -61,6 +61,7 @@
 ### Langkah bekerja dengan Git untuk mempublish ke GitHub
 
 <br>
+
 - Masuk ke dalam git bash dengan cara klik kanan pada file yang akan di      publish lalu klick "Git Bash Here"
 
 - membuat Repository dengan masuk ke dalam Aplikasi GitHub
